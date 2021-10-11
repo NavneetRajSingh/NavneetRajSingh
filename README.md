@@ -1,7 +1,7 @@
 #  Navneet Raj Singh 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h1>
 
-## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px"> 
+## 🤖 Hello Fr13nds!  <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="25px"> 
 <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif">
 Thank You for taking the time to view my GitHub Profile 🙂: 
 

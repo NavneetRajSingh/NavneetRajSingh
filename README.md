@@ -4,7 +4,7 @@
 
 ### 🤖 Machine Learning Engineer 
 
-I’m an ML Engineer at **Groove Innovations**, where I explore how AI can transform automation. My specialty is **Agentic AI**—designing smart, goal-oriented agents that bridge the gap between conversation and action.
+I’m a **Machine Learning Engineer** focused on how AI can transform automation. My specialty is **Agentic AI**—designing smart, goal-oriented agents that bridge the gap between conversation and action.
 
 I build with a simple philosophy: use AI to make work-life more efficient. When I’m not refining models, I’m usually architecting systems that "automate the boring stuff."
 
